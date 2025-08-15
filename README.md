@@ -1,7 +1,7 @@
 # cincaiAndroid ROM
 
 This is an ambitious custom Rom project started by DenisMM@dmm...   
-**_Android fork_** based on LineageOS & crDroid, developed at slow pace with humility, sarcasm, and occasional rage against `jack-server`. cincai-rom is hoped to peak at stability, and start to have a buildable RELEASE in a days to come
+**_Android fork_** based on LineageOS & crDroid, developed at slow pace with humility, sarcasm, and occasional rage against `jack-server`. cincai-rom is hoped to mature into STABLE stage so that I CAN SHARE this to custom android enthusiastt...
 
 ## The objectives
 1. lean and light Android SYSTEM
