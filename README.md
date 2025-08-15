@@ -1,7 +1,7 @@
-### cincaiAndroid ROM
-======================  
-This is an ambitious custom Rom project started by DenisMM@dmm... 
-The objectives
+# cincaiAndroid ROM
+
+This is an ambitious custom Rom project started by DenisMM@dmm...   
+## The objectives
 
 
 <!--
