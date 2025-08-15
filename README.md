@@ -9,7 +9,7 @@ This is an ambitious custom Rom project started by DenisMM@dmm...
 
 --  
 People might wonder why change existing Android that came along with HP, it's original Android!!!  And yes it is original, coded by the HP manufacturer... Well here's why, 
-1. firmware updates for the Android, end after 2 years, this means that your handphone can no longer receive security updates, you can't or SHOULD not use it for online banking. This is one reason, why you should consider replacing your android with custom ROM. Custom ROM's developers dont stop upgrading your phone
+1. firmware updates for the Android, ends after 2 years, this means that your handphone can no longer receive security updates, you can't or SHOULD not use it for online banking. This is one reason, why you should consider replacing your android with custom ROM. Custom ROM's developers dont stop upgrading your phone
 2. Device Manufacturer's Androids... samsung, Oneplus or Huawei's are bloated... on samsung .. there are samsung apps store that most people dont even subscribe to or even open. samsung's apps that are often useless 
 
 <!--
