@@ -1,32 +1,63 @@
 # cincaiAndroid ROM
 
-This is an ambitious custom Rom project started by DenisMM@dmm...   
-**_Android fork_** based on LineageOS & crDroid, developed at slow pace with humility, sarcasm, and occasional rage against `jack-server`. cincai-rom is hoped to mature into STABLE release so that I CAN SHARE this to custom android enthusiastt...
+This is an ambitious custom ROM project started by DenisMM @dmm.
+An Android fork based on LineageOS & crDroid, developed at a slow pace with humility, sarcasm, and the occasional rage against jack-server.
 
-### The objectives
-1. To build a lean and light Android SYSTEM
-2. To build KADAZAN language Android version
+### Goal: cincaiAndroid will eventually mature into a STABLE release, ready to be shared with custom Android enthusiasts.
 
---  
-People might wonder why change existing Android that came along with their HP, it's original Android!!!  And yes it is original, coded by the HP manufacturer... But here's why, 
-1. firmware updates for the Android, ends after 2 years, this means that your handphone can no longer receive security updates, you can't or SHOULD not use it for online banking after updates for it are stopped, This is one reason, why you should consider replacing your android with custom ROM. Custom ROM's developers dont stop upgrading your phone
-2. Device Manufacturer's Androids... samsung, Oneplus or Huawei's are bloated... on samsung .. there are samsung apps store that most people dont even subscribe to or even open. samsung's apps that are often useless.
-3. custom Rom are highly cutomizable... how would you want it to appear or how would want it to behave...
+🎯 Objectives
 
-<!--
-**cincaiAndroid/cincaiAndroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Build a lean and light Android system
 
-Here are some ideas to get you started:
+Deliver an Android version in Kadazan language
 
-- 🔭 I’m currently Alright...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙏 Credits & Acknowledgements
 
+AOSP
 
-### test 123
+LineageOS
+
+crDroid
+
+Fedora Project
+
+ChatGPT / OpenAI
+
+🌱 The CincaiAndroid Vision
+
+Smartphones today are treated like disposable lighters — two years, then into the trash.
+OEMs spend millions maintaining bloated Android forks, while communities like LineageOS and XDA already have the talent and passion to keep devices alive.
+
+Our proposal is simple:
+
+📂 OEMs donate device sources and binary blobs.
+
+🛠️ LineageOS/XDA maintain the updates.
+
+💸 OEMs chip in a small yearly fee (less than the cost of one Times Square billboard) to fund OTA servers and infrastructure.
+
+Result: OEMs save millions, Lineage gains stable funding, users enjoy 5–7 years of updates, and the planet sees less e-waste. Everyone wins.
+
+⚡ Awareness: Device Lifespan
+
+When you buy a phone, you’re not just buying hardware — you’re buying into an update cycle.
+
+⏳ Without Custom ROMs
+
+2–3 years of updates (if you’re lucky)
+
+Security patches slow down or stop
+
+Apps begin to fail due to outdated APIs
+
+Device feels “forced obsolete” → ends up in a drawer or landfill
+
+🔧 With Custom ROMs
+
+5–7 years of usable life (sometimes 10+ if the community is strong)
+
+Security patches continue via community maintainers
+
+Performance tweaks + debloated software keep the phone smooth
+
+Users have choice: stock UI with vendor bloat or clean lightweight builds like Lineage/Cincai
