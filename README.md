@@ -76,6 +76,6 @@ Performance tweaks + debloated software keep the phone smooth
 
 Users have choice: stock UI with vendor bloat or clean lightweight builds like Lineage/Cincai  
 
-Click on the _How to BUILD_ below to get the full list of packages needed. 
-- [**How to BUILD**](https://github.com/cincaiAndroid/android/blob/cc-1/README.mkdn) — How to prepare working environment
+Click on the _How to BUILD_ below to START building. 
+- [**How to BUILD**](https://github.com/cincaiAndroid/android/blob/cc-1/README.mkdn)
 
