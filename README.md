@@ -30,15 +30,14 @@ Deliver an Android version in Kadazan language
   <img src="https://img.shields.io/badge/Fedora-Linux-blue?style=for-the-badge&logo=fedora">
 </a>  
 
-ChatGPT / OpenAI  
-
 <a href="https://openai.com/">
   <img src="https://img.shields.io/badge/ChatGPT-OpenAI-green?style=for-the-badge&logo=openai">
 </a>
 
 
+  
 
-### 🌱 The CincaiAndroid Vision
+## 🌱 The CincaiAndroid Vision
 
 Smartphones today are treated like disposable lighters — two years, then into the trash.
 OEMs spend millions maintaining bloated Android forks, while communities like LineageOS and XDA already have the talent and passion to keep devices alive.
