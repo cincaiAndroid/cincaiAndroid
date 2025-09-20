@@ -77,6 +77,11 @@ Performance tweaks + debloated software keep the phone smooth
 
 Users have choice: stock UI with vendor bloat or clean lightweight builds like Lineage/Cincai  
 
+The following link will show you list of devices that are not locked by the Manufacturer... this list can be used to as a pointer before you purchase new device
+
+- [**Devices/handphones**](https://download.lineageos.org/changes?utm_source=chatgpt.com)
+
+
 Click on the _How to BUILD_ below to START building. 
 - [**How to BUILD**](https://github.com/cincaiAndroid/android/blob/cc-1/README.mkdn)
 
