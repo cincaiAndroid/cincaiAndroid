@@ -9,10 +9,14 @@ An Android fork based on LineageOS & crDroid, developed at a slow pace with humi
 
 Build a lean and light Android system
 
-Deliver an Android version in Kadazan language
+Deliver an Android version in Kadazan language   
 
-### 🙏 ### 🙏 Credits & Acknowledgements  
 
+      
+
+### 🙏 Credits & Acknowledgements   
+   
+   
 <a href="https://source.android.com/">
   <img src="https://img.shields.io/badge/AOSP-Android-orange?style=for-the-badge&logo=android">
 </a>  
