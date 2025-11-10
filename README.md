@@ -1,4 +1,4 @@
-# 🧱 CincaiAndroid — Freedom in Simplicity
+# 🧱 cincaiAndroid — Freedom in Simplicity
 
 ## 🌍 1. Introduction  
 **CincaiAndroid** is a personal ROM project built from the open foundations of LineageOS and other Android communities.  
