@@ -5,7 +5,7 @@
 Our goal is simple: **to give old devices new life** — without being bound by manufacturer limits, artificial obsolescence, or branding chains.  
 
 > “If a phone can still boot, it can still serve.”  
-> — *Cincai Philosophy*  
+> — *cincai Philosophy*  
 
 ---
 
@@ -62,7 +62,7 @@ The goal is not to shame, but to **remind**:
 
 ## 🔓 4. The Solution: Reclaiming Control  
 
-Through custom ROM builds, reverse-engineering, and open collaboration, **CincaiAndroid** restores what users should’ve had all along:  
+Through custom ROM builds, reverse-engineering, and open collaboration, **cincaiAndroid** restores what users should’ve had all along:  
 - Transparent code  
 - Extended device support  
 - Customization without limitation  
@@ -88,7 +88,7 @@ You can explore, learn, or even build your own version — that’s the spirit o
 
 ---
 
-## 🪶 7. CincaiAndroid’s True Purpose  
+## 🪶 7. cincaiAndroid’s True Purpose  
 
 CincaiAndroid is **not** asking people to use its ROM.  
 This project is not a competition — it’s a **conversation**.  
@@ -98,7 +98,7 @@ If people become more informed, they can make better choices, demand fairer prod
 
 > “We do not ask you to switch ROMs.  
 > We ask you to open your eyes.”  
-> — *CincaiAndroid*  
+> — *cincaiAndroid*  
 
 ---
 
