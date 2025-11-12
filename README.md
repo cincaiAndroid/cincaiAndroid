@@ -1,7 +1,7 @@
 # 🧱 cincaiAndroid — Freedom in Simplicity
 
 ## 🌍 1. Introduction  
-**CincaiAndroid** is a personal ROM project built from the open foundations of LineageOS and other Android communities.  
+**cincaiAndroid** is a personal ROM project built from the open foundations of LineageOS and other Android communities.  
 Our goal is simple: **to give old devices new life** — without being bound by manufacturer limits, artificial obsolescence, or branding chains.  
 
 > “If a phone can still boot, it can still serve.”  
@@ -104,7 +104,7 @@ If people become more informed, they can make better choices, demand fairer prod
 
 ## 🧩 8. A Note of Respect  
 
-CincaiAndroid stands **independent**, but never **against**.  
+cincaiAndroid stands **independent**, but never **against**.  
 We respect all open-source communities — Lineage, AOSP, crDroid, PixelOS — and acknowledge their years of work that made this project possible.  
 Our goal is not to divide, but to diversify.  
 
