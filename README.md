@@ -31,7 +31,7 @@ Some even pretend to “allow unlocking,” but add traps — hidden fuses, dela
 
 The result: millions of devices that could still serve are thrown away, not because they’re broken, but because **freedom was disabled at the gate**.  
 
-CincaiAndroid rejects this cycle.  
+cincaiAndroid rejects this cycle.  
 We rebuild. We repair. We repurpose.  
 We open the gate again — because the device should belong to its owner, not its manufacturer.  
 
