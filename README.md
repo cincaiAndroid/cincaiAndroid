@@ -90,7 +90,7 @@ You can explore, learn, or even build your own version — that’s the spirit o
 
 ## 🪶 7. cincaiAndroid’s True Purpose  
 
-CincaiAndroid is **not** asking people to use its ROM.  
+cincaiAndroid is **not** asking people to use its ROM.  
 This project is not a competition — it’s a **conversation**.  
 
 Our mission is to **create awareness** — to help ordinary users, students, and developers understand how modern devices are often restricted by design.  
